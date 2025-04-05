@@ -3,5 +3,3 @@
 # David Perez
 # Section 4
 
-
-Testing pushing and pulling through readme
